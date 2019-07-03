@@ -1,27 +1,29 @@
-.Video{
-  width: 60%;
-  height: 400px;
+.Video {
+	width: 60%;
+	height: 400px;
 }
 
-.Video__Wrapper{
-  width: 100%;
-  height: 400px;
+.Video__Wrapper {
+	width: 100%;
+	height: 400px;
 }
 
 @media screen and (max-width: 900px) {
-  .Video{
-    width: 100%;
-  }
+	.Video {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 550px) {
-  .Video, .Video__Wrapper{
-    height: 330px;
-  }
+	.Video,
+	.Video__Wrapper {
+		height: 330px;
+	}
 }
 
 @media screen and (max-width: 400px) {
-  .Video, .Video__Wrapper{
-    height: 215px;
-  }
+	.Video,
+	.Video__Wrapper {
+		height: 215px;
+	}
 }

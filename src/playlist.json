@@ -1,0 +1,110 @@
+{
+	"playlistId": "ucm_trailers",
+	"playlist": [
+		{
+			"num": 1,
+			"title": "Thor",
+			"id": "uHBnrJowBZE",
+			"duration": "02:31",
+			"video": "https://www.youtube.com/embed/uHBnrJowBZE"
+		},
+		{
+			"num": 2,
+			"title": "Captain America: The First Avenger",
+			"id": "JerVrbLldXw",
+			"duration": "02:30",
+			"video": "https://www.youtube.com/embed/JerVrbLldXw"
+		},
+		{
+			"num": 3,
+			"title": "The Avengers",
+			"id": "eOrNdBpGMv8",
+			"duration": "02:04",
+			"video": "https://www.youtube.com/embed/eOrNdBpGMv8"
+		},
+		{
+			"num": 4,
+			"title": "Captain America: The Winter Soldier",
+			"id": "7SlILk2WMTI",
+			"duration": "02:30",
+			"video": "https://www.youtube.com/embed/7SlILk2WMTI"
+		},
+		{
+			"num": 5,
+			"title": "Guardians of the Galaxy",
+			"id": "2LIQ2-PZBC8",
+			"duration": "02:46",
+			"video": "https://www.youtube.com/embed/2LIQ2-PZBC8"
+		},
+		{
+			"num": 6,
+			"title": "Avengers: Age of Ultron",
+			"id": "tmeOjFno6Do",
+			"duration": "02:16",
+			"video": "https://www.youtube.com/embed/tmeOjFno6Do"
+		},
+		{
+			"num": 7,
+			"title": "Ant-Man",
+			"id": "pWdKf3MneyI",
+			"duration": "02:29",
+			"video": "https://www.youtube.com/embed/pWdKf3MneyI"
+		},
+		{
+			"num": 8,
+			"title": "Captain America: Civil War",
+			"id": "dKrVegVI0Us",
+			"duration": "02:24",
+			"video": "https://www.youtube.com/embed/dKrVegVI0Us"
+		},
+		{
+			"num": 9,
+			"title": "Doctor Strange",
+			"id": "HSzx-zryEgM",
+			"duration": "02:21",
+			"video": "https://www.youtube.com/embed/HSzx-zryEgM"
+		},
+		{
+			"num": 10,
+			"title": "Spider-Man: Homecoming",
+			"id": "39udgGPyYMg",
+			"duration": "02:39",
+			"video": "https://www.youtube.com/embed/39udgGPyYMg"
+		},
+		{
+			"num": 11,
+			"title": "Thor: Ragnarok",
+			"id": "v7MGUNV8MxU",
+			"duration": "01:52",
+			"video": "https://www.youtube.com/embed/v7MGUNV8MxU"
+		},
+		{
+			"num": 12,
+			"title": "Avengers: Infinity War",
+			"id": "6ZfuNTqbHE8",
+			"duration": "02:24",
+			"video": "https://www.youtube.com/embed/6ZfuNTqbHE8"
+		},
+		{
+			"num": 13,
+			"title": "Captain Marvel",
+			"id": "Z1BCujX3pw8",
+			"duration": "01:56",
+			"video": "https://www.youtube.com/embed/Z1BCujX3pw8"
+		},
+		{
+			"num": 14,
+			"title": "Avengers: Endgame",
+			"id": "TcMBFSGVi1c",
+			"duration": "02:26",
+			"video": "https://www.youtube.com/embed/TcMBFSGVi1c"
+		},
+		{
+			"num": 15,
+			"title": "Spider-Man: Far From Home",
+			"id": "LFoz8ZJWmPs",
+			"duration": "02:58",
+			"video": "https://www.youtube.com/embed/LFoz8ZJWmPs"
+		}
+	]
+}
