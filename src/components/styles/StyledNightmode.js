@@ -50,7 +50,7 @@ const StyledNightmode = styled.div`
   }
 
   input:checked + .slider {
-    background-color: #3d5138;
+    background-color: #88468A;
   }
 
   input:focus + .slider {

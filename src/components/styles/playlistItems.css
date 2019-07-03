@@ -1,0 +1,25 @@
+.Items{
+  padding: 20px;
+  overflow-y: auto;
+}
+
+/* width */
+.Items::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Track */
+.Items::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+.Items::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 2px;
+}
+
+/* Handle on hover */
+.Items::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

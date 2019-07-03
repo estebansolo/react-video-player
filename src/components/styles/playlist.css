@@ -1,0 +1,11 @@
+.Playlist{
+  color: white;
+  width: 40%;
+  height: 100%;
+}
+
+@media screen and (max-width: 900px) {
+  .Playlist{
+    width: 100%;
+  }
+}

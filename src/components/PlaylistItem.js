@@ -4,9 +4,9 @@ import StyledPlaylistItem from '../components/styles/StyledPlaylistItem';
 const PlaylistItem = ({ video, active, played }) => {
 	return (
 		<StyledPlaylistItem active={active} played={played}>
-			<div className="wbn-player__video-nr">{video.num}</div>
-			<div className="wbn-player__video-name">{video.title}</div>
-			<div className="wbn-player__video-time">{video.duration}</div>
+			<div className="Playlist__Item-nr">{video.num}</div>
+			<div className="Playlist__Item-name">{video.title}</div>
+			<div className="Playlist__Item-time">{video.duration}</div>
 		</StyledPlaylistItem>
 	);
 };

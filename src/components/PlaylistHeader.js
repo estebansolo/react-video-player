@@ -1,13 +1,14 @@
 import React from 'react';
-import StyledPlaylistHeader from './styles/StyledPlaylistHeader';
-import StyledJourney from './styles/StyledJourney';
+import './styles/header.css';
 
 const PlaylistHeader = ({ active, total }) => {
 	return (
-		<StyledPlaylistHeader>
+		<div className="Header">
 			<p>{active.title}</p>
-			<StyledJourney>{active.num / total}</StyledJourney>
-		</StyledPlaylistHeader>
+			<div className="Header__Journey">
+				{active.num}/{total}
+			</div>
+		</div>
 	);
 };
 
