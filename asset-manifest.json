@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactVideoPlayer/static/css/main.f4282185.chunk.css",
-    "main.js": "/ReactVideoPlayer/static/js/main.a358be5f.chunk.js",
-    "main.js.map": "/ReactVideoPlayer/static/js/main.a358be5f.chunk.js.map",
+    "main.js": "/ReactVideoPlayer/static/js/main.8201b93e.chunk.js",
+    "main.js.map": "/ReactVideoPlayer/static/js/main.8201b93e.chunk.js.map",
     "runtime~main.js": "/ReactVideoPlayer/static/js/runtime~main.0363b1cc.js",
     "runtime~main.js.map": "/ReactVideoPlayer/static/js/runtime~main.0363b1cc.js.map",
     "static/js/2.3e87af67.chunk.js": "/ReactVideoPlayer/static/js/2.3e87af67.chunk.js",
     "static/js/2.3e87af67.chunk.js.map": "/ReactVideoPlayer/static/js/2.3e87af67.chunk.js.map",
     "index.html": "/ReactVideoPlayer/index.html",
-    "precache-manifest.3da9780b070a5aea239d2d2caff45f92.js": "/ReactVideoPlayer/precache-manifest.3da9780b070a5aea239d2d2caff45f92.js",
+    "precache-manifest.c59fded7c53898de9236f658e8295d49.js": "/ReactVideoPlayer/precache-manifest.c59fded7c53898de9236f658e8295d49.js",
     "service-worker.js": "/ReactVideoPlayer/service-worker.js",
     "static/css/main.f4282185.chunk.css.map": "/ReactVideoPlayer/static/css/main.f4282185.chunk.css.map"
   }
