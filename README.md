@@ -1,6 +1,6 @@
 # ReactVideoPlayer
 
-This is a simple player made with ReactJS in a [Udemy course](https://www.udemy.com/react-hooks-videoplayer/).
+This is a simple resposive player made with ReactJS in a [Udemy course](https://www.udemy.com/react-hooks-videoplayer/).
 
 ## What I Learned
 
@@ -8,3 +8,13 @@ This is a simple player made with ReactJS in a [Udemy course](https://www.udemy.
   - Hooks
   - Use Styled Components
   - Deploy React App in Github Pages
+
+## Example
+
+<h1 align="center">
+  <img src="public/img/ReactPlayer.png">
+</h1>
+
+
+
+
