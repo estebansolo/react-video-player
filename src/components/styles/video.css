@@ -12,18 +12,30 @@
 	.Video {
 		width: 100%;
 	}
+
+	.Video,
+	.Video__Wrapper {
+		height: 340px;
+	}
+}
+
+@media screen and (max-width: 750px) {
+	.Video,
+	.Video__Wrapper {
+		height: 300px;
+	}
 }
 
 @media screen and (max-width: 550px) {
 	.Video,
 	.Video__Wrapper {
-		height: 330px;
+		height: 280px;
 	}
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
 	.Video,
 	.Video__Wrapper {
-		height: 215px;
+		height: 230px;
 	}
 }

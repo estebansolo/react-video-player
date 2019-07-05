@@ -6,18 +6,22 @@ import StyledPlayer from '../styles/StyledPlayer';
 import playlistVideos from '../../playlist.json';
 
 const themeNight = {
+	shadow: "#000000",
 	bgcolorItem: '#414141',
-	bgcolorItemActive: '#405c63',
+	bgcolorItemActive: '#eeeeee',
 	bgcolorPlayed: '#526d4e',
-	bgcolor: '#360037',
+	bgcolor: '#0b1319',
+	activeColor: "#0b1319",
 	color: '#ffffff'
 };
 
 const themeLight = {
+	shadow: "#FFFFFF",
 	bgcolorItem: '#ffffff',
-	bgcolorItemActive: '#80a7b1',
+	bgcolorItemActive: '#555555',
 	bgcolorPlayed: '#7d9979',
 	bgcolor: '#efefef',
+	activeColor: "#FFFFFF",
 	color: '#000'
 };
 
@@ -96,7 +100,7 @@ const Player = (props) => {
 			{state.videos !== null ? (
 				<StyledPlayer>
 					<h1 className="Player__Title">
-						<div className="Player__Wrapper">Simple React Video Player</div>
+						Simple React Video Player
 					</h1>
 					<div className="Player__Wrapper">
 						<Video

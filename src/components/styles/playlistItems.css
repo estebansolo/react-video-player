@@ -1,5 +1,5 @@
 .Items{
-  padding: 20px;
+  height: 300px;
   overflow-y: auto;
 }
 
@@ -22,4 +22,11 @@
 /* Handle on hover */
 .Items::-webkit-scrollbar-thumb:hover {
   background: #555;
+}
+
+@media screen and (max-width: 600px) {
+	.Items{
+    padding: 1px;
+    height: 240px;
+  }  
 }

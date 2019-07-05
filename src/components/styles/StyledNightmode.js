@@ -6,7 +6,7 @@ const StyledNightmode = styled.div`
   font-size: 1.6em;
   color: ${props => props.theme.color};
   padding: 0;
-  margin: 20px;
+  margin: 10px;
 
   /* CSS taken from https://www.w3schools.com/howto/howto_css_switch.asp */
   /* The switch - the box around the slider */
@@ -50,7 +50,7 @@ const StyledNightmode = styled.div`
   }
 
   input:checked + .slider {
-    background-color: #88468A;
+    background-color: #000000;
   }
 
   input:focus + .slider {

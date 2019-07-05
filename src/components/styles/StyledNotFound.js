@@ -4,7 +4,7 @@ const StyledNotFound = styled.div`
 	display: flex;
 	width: 100vw;
 	height: 100vh;
-	background-color: #360037;
+	background-color: #0b1319;
 	color: white;
 	font-family: "Hind", sans-serif;
 	justify-content: center;
@@ -25,11 +25,11 @@ const StyledNotFound = styled.div`
 	}
 
 	.NotFound__Button a {
-		color: white;
+		color: #0b1319;
 		text-decoration: none;
 		padding: 8px 20px;
 		font-size: 1.5em;
-		background-color: #513e53;
+		background-color: #CCCCCC;
 	}
 `;
 

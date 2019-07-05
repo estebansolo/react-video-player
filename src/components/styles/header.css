@@ -1,11 +1,11 @@
 .Header{
-  background: #510E53;
+  background: #000000;
   font-family: "Hind", sans-serif;
   font-weight: 800;
-  font-size: 1.7em;
+  font-size: 2em;
   color: #fff;
   padding: 0 15px;
-  min-height: 70px;
+  min-height: 50px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -14,5 +14,5 @@
 .Header__Journey{
   font-size: 0.8em;
   padding: 2px 5px;
-  height: 20px;
+  height: 28px;
 }
