@@ -9,10 +9,14 @@ This is a simple resposive player made with ReactJS in a [Udemy course](https://
   - Use Styled Components
   - Deploy React App in Github Pages
 
-## Example
+## Screenshots
 
 <h1 align="center">
-  <img src="public/img/ReactPlayer.png">
+  <img src="public/img/ReactPlayerResponsiveDark.png">
+  <img src="public/img/ReactPlayerResponsiveLight.png">
+</h1>
+<h1 align="center">
+  <img src="public/img/ReactPlayerDark.png">
 </h1>
 
 
